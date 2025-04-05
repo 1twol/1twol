@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is 1twol. I'm not good at English🤔
 
-- 📫 How to reach me:2389392734@qq.com
+- 📫 How to reach me: 2389392734@qq.com
 <!--
 **1twol/1twol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
